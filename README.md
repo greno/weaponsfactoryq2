@@ -8,7 +8,7 @@ Released in 1998, my brother Tom Reno and I released a mod for Quake 2 called We
  - Half-Life
  - Tribes
 
-On this the 25th anniversary of WF for Q2, I am releasing the source code for **version 4.2.1**.  Not that I was holding on to it for any reason.  It's just I forgot about it for years until I was recently reminded by a group of dedicated WF players over at [Weapons Factory Arena] (http://weaponsfactoryarena.com) and [Weapons Factory Roblox](https://www.weaponsfactoryroblox.com/)that it would be a good idea to do so.
+On this the 25th anniversary of WF for Q2, I am releasing the source code for **version 4.2.1**.  Not that I was holding on to it for any reason.  It's just I forgot about it for years until I was recently reminded by a group of dedicated WF players over at [Weapons Factory Arena](http://weaponsfactoryarena.com) and [Weapons Factory Roblox](https://www.weaponsfactoryroblox.com/) that it would be a good idea to do so.
 
 Also included are the original client, server and map files.
 
