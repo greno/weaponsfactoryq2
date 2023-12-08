@@ -16,7 +16,7 @@ Weapons Factory was such a blast work on, and I am humbled by the awesome commun
 
 ## License
 
-MIT
+GNU GENERAL PUBLIC LICENSE
 
-**Free Software, Hell Yeah!**
+**Free To Use Any Way You Want**
 
